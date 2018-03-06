@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Let Try Quiz</string>
+    <string name="header_title">Where is the place in the picture?</string>
+    <string name="header_scorePage">Best Score!</string>
+</resources>
